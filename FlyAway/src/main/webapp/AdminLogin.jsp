@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <%@ include file="Boosttrapfiles.jsp"%>
 <style type="text/css">
-<%@ include file="CSS/homepage.css "%>
+<%@ include file="CSS/homepage.css"%>
 .adminlogin {
 	display: none;
 }
